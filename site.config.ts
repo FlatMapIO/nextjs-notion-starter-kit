@@ -2,11 +2,11 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
 	// the site's root Notion page (required)
-	rootNotionPageId: '69a5255ecf234e6a90361f28f0967752',
+	rootNotionPageId: '8b2124b203cd4b16bda735fd23ea0be2',
 
 	// if you want to restrict pages to a single notion workspace (optional)
 	// (this should be a Notion ID; see the docs for how to extract this)
-	rootNotionSpaceId: 'd03b77b2-3061-451e-b34b-db5f21753678',
+	rootNotionSpaceId: "a74b214b-710c-4c10-9041-f972a34aa766",
 
 	// Search is not working
 	isSearchEnabled: false,
@@ -69,11 +69,11 @@ export default siteConfig({
 	navigationLinks: [
 		{
 			title: 'About',
-			pageId: '641b2345bf9e44a0bd6fa004a6e7dd1b',
+			pageId: '331ec557ca76489cb5d5fab25c2e3f33',
 		},
 		{
 			title: 'Contact',
-			pageId: 'e08db03600c54b7da65ef29424f32595',
+			pageId: '03a11dc6a8ad4ca7a880104ffabbd109',
 		},
 	],
 })
