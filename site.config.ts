@@ -23,7 +23,7 @@ export default siteConfig({
 	// socialImageSubtitle: 'Hello World! 👋',
 
 	// social usernames (optional)
-	twitter: 'OpenSora_ai',
+	twitter: 'flowsoraai',
 	// github: '#',
 	linkedin: 'https://www.linkedin.com/company/openflow-ai/about/',
 
