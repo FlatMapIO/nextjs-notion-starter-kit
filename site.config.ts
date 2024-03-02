@@ -27,7 +27,9 @@ export default siteConfig({
 	// github: '#',
 	linkedin: 'https://www.linkedin.com/company/openflow-ai/about/',
 
-	discord: 'https://discord.gg/KM8Xgg9c',
+	// discord: 'https://discord.gg/KM8Xgg9c',
+	discord: 'https://discord.gg/WWT6CjMDkD',
+
 	// telegram: 'https://t.me/openflowai',
 
 	// mastodon: '#', // optional mastodon profile URL, provides link verification
